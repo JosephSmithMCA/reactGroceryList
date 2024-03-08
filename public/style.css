@@ -1,0 +1,26 @@
+.Header{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+.groceryImage{
+    object-fit: cover;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 15px;
+}
+
+.groceryMenu{
+    height: 100vh;
+    width: 65vw;
+}
+
+.erasePadding{
+    padding: 0px;
+}
+
+.eraseMargin{
+    margin: 0px;
+}
